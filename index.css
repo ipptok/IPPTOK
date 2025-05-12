@@ -3,11 +3,255 @@
 }
 
 .u-section-1 .u-image-1 {
-  width: 283px;
-  height: 134px;
-  margin: 133px auto 0;
+  width: 1140px;
+  height: 682px;
+  margin: 50px auto 60px;
 }
 
-.u-section-1 .u-text-1 {
-  margin: 30px auto 60px;
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 280px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 940px;
+    height: 562px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 148px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 430px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 41px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 323px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 203px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 1140px;
+  height: 682px;
+  margin: 50px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 280px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 940px;
+    height: 562px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 148px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 720px;
+    height: 430px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 41px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 323px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 203px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 1140px;
+  height: 682px;
+  margin: 50px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-image-1 {
+    width: 940px;
+    height: 562px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-image-1 {
+    width: 720px;
+    height: 430px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-image-1 {
+    width: 540px;
+    height: 323px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 203px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 1140px;
+  height: 682px;
+  margin: 50px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-image-1 {
+    width: 940px;
+    height: 562px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-image-1 {
+    width: 720px;
+    height: 430px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-image-1 {
+    width: 540px;
+    height: 323px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-image-1 {
+    width: 340px;
+    height: 203px;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-5 .u-image-1 {
+  width: 1140px;
+  height: 682px;
+  margin: 50px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-image-1 {
+    width: 940px;
+    height: 562px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-image-1 {
+    width: 720px;
+    height: 430px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-image-1 {
+    width: 540px;
+    height: 323px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-image-1 {
+    width: 340px;
+    height: 203px;
+  }
+}.u-section-6 .u-sheet-1 {
+  min-height: 682px;
+}
+
+.u-section-6 .u-image-1 {
+  width: 1140px;
+  height: 682px;
+  margin: 50px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 562px;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 940px;
+    height: 562px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 430px;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 720px;
+    height: 430px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 323px;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 540px;
+    height: 323px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 182px;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 340px;
+    height: 203px;
+  }
 }
